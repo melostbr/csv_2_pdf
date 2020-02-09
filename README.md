@@ -26,7 +26,7 @@ bundle install
 Download the script file and run with the following command
 
 ```
-ruby csv_to_pdf.rb {name_of_your_csv_file}
+ruby csv_to_pdf.rb
 ```
 
 ## Development
